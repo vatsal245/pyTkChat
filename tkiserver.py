@@ -1,3 +1,4 @@
+#Code for the server/ admin of the chat.
 import socket
 import threading
 import sys
