@@ -1,3 +1,4 @@
+#Code for the client/ non-admin person.
 import socket
 import sys
 import os
